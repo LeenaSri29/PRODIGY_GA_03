@@ -1,5 +1,5 @@
-# PRODIGY_GA_03
-📝 Advanced Markov Text Generator with Flask
+
+#📝 Advanced Markov Text Generator with Flask
 
 This project is an enhanced Markov text generator that combines traditional Markov chain modeling with advanced features, all wrapped in a user-friendly Flask web interface. Users can train models, generate text, and evaluate model performance interactively or via Python scripts.
 
